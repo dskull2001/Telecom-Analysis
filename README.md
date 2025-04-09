@@ -15,22 +15,10 @@ AtliQo, a leading telecom provider in India, launched 5G services in May 2022. C
 3. **Market Share Dynamics**: AtliQo’s share dropped—strategy revision is key.
 
 ## 🧩 Dataset Modeling
-4 datasets were integrated using inner joins on `city_code`:
-- `fact_plan_revenue.csv`
-- `dim_cities.csv`
-- `dim_date.csv`
-- `dim_plan.csv`
 
-## 📁 Files Included
-- Tableau Dashboard Images
-- README.md
-- Dataset Overview & Modeling screenshots
+The dataset modeling process involved integrating **four key tables** using **inner joins** on the `city_code` column. This allowed for a cohesive and analyzable dataset combining plan, city, and time-based information.
 
-## 🔧 Tools Used
-- Tableau
-- Excel/CSV for data preparation
+### 🔗 Data Connectivity Diagram:
+![Dataset Modeling](Data Modeling.jpg)
 
-## 📌 Author
-**Dev Thakkar**  
-Data Analyst | Data Science Engineer | GTA | Computational Science Graduate  
-[LinkedIn](https://www.linkedin.com/in/dev-thakkar-1b72851b1/)
+The visual diagram above illustrates the join structure:
