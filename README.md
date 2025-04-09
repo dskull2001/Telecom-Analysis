@@ -22,3 +22,35 @@ The dataset modeling process involved integrating **four key tables** using **in
 ![Dataset Modeling]("Data Modeling.jpg")
 
 The visual diagram above illustrates the join structure:
+### 📌 Join Details:
+- **Join Type**: Inner Join  
+- **Join Key**: `city_code`
+
+### 📝 Description:
+We connected the main fact table `fact_plan_revenue.csv` with the dimensional tables `dim_cities.csv`, `dim_date.csv`, and `dim_plan.csv` using the common `city_code` field. This relational structure ensured consistent linkage between revenue data, city information, dates, and plan details for in-depth analysis in Tableau.
+
+## 🗂 Dataset Overview
+
+The analysis is based on the following data files:
+
+- `dim_cities.csv`: Contains `city_code`, `city_name`
+- `dim_date.csv`: Contains date and 5G launch period indicators
+- `dim_plan.csv`: Plan identifiers and descriptions
+- `fact_plan_revenue.csv`: Plan-wise revenue across cities and months
+- `fact_market_share.csv`: Market share % by city and company
+- `fact_atliqo_metrics.csv`: KPIs such as ARPU, active/inactive users, unsubscribe counts
+- `metrics_list.xlsx`: Metric definitions and table references
+
+## 📁 Files Included
+- Tableau Dashboard Images
+- README.md
+- Dataset Overview & Modeling screenshots
+
+## 🔧 Tools Used
+- Tableau
+- Excel/CSV for data preparation
+
+## 📌 Author
+**Dev Thakkar**  
+GTA | Data Analyst | Computational Science Graduate  
+[LinkedIn](https://www.linkedin.com)
