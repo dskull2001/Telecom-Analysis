@@ -19,9 +19,8 @@ AtliQo, a leading telecom provider in India, launched 5G services in May 2022. C
 The dataset modeling process involved integrating **four key tables** using **inner joins** on the `city_code` column. This allowed for a cohesive and analyzable dataset combining plan, city, and time-based information.
 
 ### 🔗 Data Connectivity Diagram:
-![Dataset Modeling]("Data Modeling.jpg")
+![Dataset Modeling](Data%20Modeling.jpg)
 
-The visual diagram above illustrates the join structure:
 ### 📌 Join Details:
 - **Join Type**: Inner Join  
 - **Join Key**: `city_code`
