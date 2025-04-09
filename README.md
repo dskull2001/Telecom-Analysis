@@ -32,5 +32,5 @@ AtliQo, a leading telecom provider in India, launched 5G services in May 2022. C
 
 ## 📌 Author
 **Dev Thakkar**  
-GTA | Data Analyst | Computational Science Graduate  
-[LinkedIn](https://www.linkedin.com)
+Data Analyst | Data Science Engineer | GTA | Computational Science Graduate  
+[LinkedIn](https://www.linkedin.com/in/dev-thakkar-1b72851b1/)
