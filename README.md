@@ -51,5 +51,5 @@ The analysis is based on the following data files:
 
 ## 📌 Author
 **Dev Thakkar**  
-GTA | Data Analyst | Computational Science Graduate  
+Data Analyst | Data Science Engineer | GTA | Computational Science Graduate  
 [LinkedIn](https://www.linkedin.com)
